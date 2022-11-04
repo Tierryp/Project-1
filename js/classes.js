@@ -1,7 +1,7 @@
 const gokuImg = new Image()
 gokuImg.src = "./goku_flying-removebg-preview.png";
 const gokuAttackImg = new Image();
-gokuAttackImg.src = './goku_attack-removebg-preview.png';
+gokuAttackImg.src = './attack_goku.png';
 const majinBuu = new Image();
 majinBuu.src = "./majin_buu-removebg-preview.png";
 
